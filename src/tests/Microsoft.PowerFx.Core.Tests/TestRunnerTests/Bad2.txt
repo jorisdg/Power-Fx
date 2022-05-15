@@ -1,3 +1,0 @@
-﻿
-// input that's missing a result
->> input
